@@ -1,2 +1,18 @@
-# Weather-Tracker
-A simply python weather tracker that display weather information based on user input. Built as one of my beginner Python projects while learning programming.
+# 🌦️ Python Weather Tracker
+
+This is a simple weather tracker built using Python.
+
+## Features
+- Search weather by city
+- Displays current weather information
+- Beginner-friendly project
+- Built for Python practice
+
+## Technologies Used
+- Python
+
+## About
+This project was created while I was learning Python programming. It helped me understand user input, working with APIs (if applicable), and organizing a simple Python application.
+
+---
+Made with ❤️ by Dhessa Meah
